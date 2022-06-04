@@ -1,2 +1,1 @@
-# alexriiska.github.io
-## My first website
+# My first website
